@@ -41,3 +41,5 @@ Buka http://localhost:5173. Alamat API bisa diubah lewat env `VITE_API_URL` (def
 - Validasi ada di dua sisi: klien (UX cepat) dan server (Pydantic, sumber kebenaran).
 - Pagination dihitung di server; frontend memakai `total` untuk menentukan jumlah halaman.
 
+## Pengungkapan penggunaan AI
+Kerangka kode proyek ini dibuat dengan bantuan Claude (Anthropic), sebagaimana diperbolehkan pada ketentuan UTS dengan pengungkapan di README. Saya telah membaca, menjalankan, dan menguji kode ini, serta siap menjelaskannya pada Sesi 8 tanpa bantuan AI.
